@@ -2,6 +2,9 @@
 
 <h3>JobFinder is a mobile application built with React Native that helps users find new job opportunities. The app provides a clean and intuitive interface for users to browse job listings based on their preferences.</h3>
 
+<h3>AppLink</h3>
+<a href="https://expo.dev/@amitabh1609/JobFinder?serviceType=classic&distribution=expo-go">here</a>
+
 <h2>Features</h2>
 <h3>. Browse job listings</h3>
 <h3>. Search for jobs based on keywords and location</h3>
@@ -19,5 +22,4 @@
 <h3>. React Navigation</h3>
 <h3>. Axios</h3>
 
-
-AppLink: https://expo.dev/@amitabh1609/JobFinder?serviceType=classic&distribution=expo-go
+<a href="https://expo.dev/@amitabh1609/JobFinder?serviceType=classic&distribution=expo-go">AppLink</a>
